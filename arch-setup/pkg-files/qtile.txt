@@ -1,0 +1,7 @@
+qtile
+picom
+bpytop
+pamixer
+pavucontrol
+ttf-weather-icons
+volumeicon

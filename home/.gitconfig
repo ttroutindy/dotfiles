@@ -1,0 +1,5 @@
+[user]
+	name = Travis Trout
+	email = ttroutindy@gmail.com
+[credential]
+	helper = cache

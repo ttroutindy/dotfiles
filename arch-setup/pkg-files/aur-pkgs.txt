@@ -1,0 +1,13 @@
+brave-bin
+google-chrome
+httpfs2-2gbplus
+lib32-mangohud-git
+libnss-resolver
+mangohud-common-git
+mangohud-git
+nerd-fonts-hermit
+ttf-material-design-icons
+ttf-ms-fonts
+ttf-weather-icons
+ttf-meslo
+visual-studio-code-bin
